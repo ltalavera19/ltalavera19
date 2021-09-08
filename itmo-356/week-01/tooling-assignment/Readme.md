@@ -8,7 +8,6 @@ In this exercise we will install tools needed to be able to accomplish our jobs 
 
 There are two package managers for Windows 10. [Chocolatey.org](https://chocolatey.org/ "Chocolatey.org download page") is the Windows 3rd party package manager.  [Winget](https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/ "Winget Instal URL") is the Microsoft first party package manager. Place a screenshot of the version command output for wither: `winget -v` or `choco -v`
 
-
 ## Installation of PowerShell Core for Windows
 
 Using Chocolatey (choco) or Winget install [PowerShell Core 7.1.x](https://chocolatey.org/packages/powershell-core "PowerShell Core 7 Download from choco").  Place a screenshot of the initial PowerShell 7 screen.  Add screenshot of the output of: ```ssh -V```.  
@@ -52,8 +51,6 @@ After installing an IDE editor of your choice, pick one of the listed or you can
 ## Packer Managers for MacOS
 
 Brew is the MacOS 3rd party package manager located at: [https://brew.sh/](https://brew.sh/ "brew installer page"). Place a screenshot of the output of ```brew --version```.
-
-![*HomeBrew Version*](./images/homebrew-version.png)
 
 ## Installation of Bash 5 on MacOS
 
