@@ -81,6 +81,7 @@ You will need to configure Git if you already haven't done so.  From a shell run
 git config --global user.name "<Your Name>"
 git config --global user.email "<youremail@example.com>"
 ```
+![*Git-Image-for-MacOS*](./images/git-version.png)
 
 ## Install IDE editor MacOS
 
