@@ -52,16 +52,20 @@ After installing an IDE editor of your choice, pick one of the listed or you can
 
 Brew is the MacOS 3rd party package manager located at: [https://brew.sh/](https://brew.sh/ "brew installer page"). Place a screenshot of the output of ```brew --version```.
 
-![*Homebrew-Version*](.\images\homebrew-version.png)
+![*Homebrew-Version*](./images/homebrew-version.png)
 
 ## Installation of Bash 5 on MacOS
 
 Using Homebrew install Bash 5.0+ on MacOS and activate it to replace Bash 3.x
 [https://www.ioannispoulakas.com/2019/03/10/how-to-install-bash-5-on-macos/](https://www.ioannispoulakas.com/2019/03/10/how-to-install-bash-5-on-macos/ "Replace Bash 3 with 5 MacOS"). For Mac, if you have Bash and SSH already installed, take a screenshot of the output of ```ssh -V``` and ```bash --version```
 
+![*Bash-Version*](./images/bash-version.png)
+
 ## Installation of a Terminal for MacOS
 
 A Terminal is a way to run multiple shell and cmd line windows in a single managed window.  You can install iterm2 via Homebrew.
+
+![*Terminal-for-MacOS*](./images/bash-version.png)
 
 [iterm2](https://iterm2.com/ "MacOS shell terminal")
 
