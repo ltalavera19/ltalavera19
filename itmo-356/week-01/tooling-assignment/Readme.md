@@ -87,6 +87,9 @@ git config --global user.email "<youremail@example.com>"
 
 After installing an IDE editor of your choice, pick one of the listed or you can use another one, but it needs to have native Git support built into the editor.  Take a screenshot of output of the help > about button in the application.  You can install all or any of these via the package manager brew.
 
+![*VSCode-Image-for-MacOS*](./images/VSCode-image.png)
+
+
 * [VSCode from Microsoft](https://code.visualstudio.com/ "VSCode install")
   * Cross platform and has direct shell integration
 * [atom.io](https://atom.io/ "Atom.io install")
