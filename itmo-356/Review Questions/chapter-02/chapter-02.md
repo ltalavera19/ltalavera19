@@ -749,46 +749,105 @@ Either individually, as a class, or get into groups and watch the documentary mo
 
 1. Based on the movie's tone and rhetoric - why do you think there was an anti-Microsoft tone at the time of the movies making (~2001)? (You may need to research [Microsoft anti-trust case](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp. "Anti-Trust") ).
 
-
+Microsoft at the time was a company that was trying to take advantage of the smaller companies.  The CEO at the time, Bill Gates, also did not help on that fact that he was seen as a bit narcissistic and arrogant.  He was viewed as arrogant and just not a pleasant person to be around due to him and the company that he was behind.  
 
 1. When Bill Gates wrote his 1976 *"Open Letter to Hobbyists"*, was he justified in his complaint?  Why or why not?
 
+
+
 1. According to Eric Raymond in the move, the adoption curve of Linux and the adoption curve the internet do what ~32:20?
+
+They track eachother exactly. 
 
 1. Why did Bruce Perens help write the Open Source Definition / Debian Social Contract Standard?
 
 1. What were the two commercial Linux companies featured in the movie (Note-one does not exist any longer)?
 
+Red Hat Linux and VA Linux.
+
 1. What is Red Hat Linux's stock price today compared to the the price listed in the movie?  What is VA Linux's stock price today compared to the movie? (Hint VA Linux was sold and now belongs to another company, find that company's stock price.)
 
 1. According to Eric S. Raymond what was the major application that needed to "flip" for opensource to become a viable enterprise solution?
 
+A big database vendor 
+
 1. What was the first major commercial company to opensource a key product?  What did that product eventually become?
 
-1. How does Richard Stallman react at the end of the movie to the success of the Linux kernel to the exclusion of the GNU toolchain?  
+1. How does Richard Stallman react at the end of the movie to the success of the Linux kernel to the exclusion of the GNU toolchain? 
+
+He was not pleased with the descision made.  
 
 1. What is the main difference between *"Free Software"* and *"Open Source Software"*?
+
+Open Source Software is something which you can modify as per your needs, share with others without any licensing violation burden.  
 
 ### Podcast Questions
 
 Listen to the Podcast at [https://twit.tv/shows/floss-weekly/episodes/500](https://twit.tv/shows/floss-weekly/episodes/500 "Podcast Interview")
 
 * 7:21  Who is Vicky Brasseur and what does she do?
+
+She used to run software engineering departments at the VP Director level.  She now does freelancing for companies to help them sustainably use, contribute to, release, and comply with free and open source software programs.  
+
 * 8:45 What has changed the most in regards to the term OpenSource in the last 25+ years?
+
+You do not have to explain the terms as much due to them being more commonly understood.  
+
 * 10:00 What is assumed to now be the default development pattern for new software?
+
+You begin with an open source.  People are going all in on open source and relying on the open source softwares.  
+
 * 13:00 According to Randall, when a company publishes its code as OpenSource, what do they gain?
+
+They gain the resource that anyone is intersted in that software can help and develop that software and a community.  
+
 * 15:57 What do companies struggle with when they decide to opensource their codebase and core-products and how do they solve it?
+
+They struggle with the idea on how does the company continue to make money.  
+
 * 19:00 What are some of the OpenSource companies?
+
+Redhat, Horton Works are open source companies.  
+
 * 19:35 What are the majority of OpenSource companies strategies to make money?
+
+They would just become acquired.  
+
 * 22:40 What do companies need to figure out about Free and OpenSource?
+
+They need to understand the history behind these forms of software development and licensing.  
+
 * 24:25 What is the term "Yak-Shaving" mean?
+
+All of the things you must do before you can get back to the orignal task at hand.  
+
 * 27:25 Who is Vicky's new book targeting?
+
+Designers, translaters, security, documentarians.  
+
 * 28:03 What is the book about?
+
+It is about how to contribute to free and open source software development.  
+
 * 33:25 What is the mistaken impression about contributing to OpenSource Software?
+
+That if you do not know how to code you can not help in the process of open source software development.  
+
 * 37:40 What do you need to read before contributing to an OpenSource project?
+
+Read the contributing guide.  
+
 * 43:00 What does Vicky believe is important for a project to have and to enforce for a community?
+
+Having and enforcing a code of conduct.  
+
 * 48:01 What is the myth about users of proprietary operating systems (Windows and MacOS)?
+
+The myth is that if you use one of the popular softwares such as Windows or macOS that you do not believe in open source.  
+
 * 49:00 Vicky used Linux for 10 years, what drove her away from it?
+
+She was spending way to much time trying to make it do what she wanted to do.  She has stream lined her work flow.  
 
 ### Lab
 
@@ -809,6 +868,8 @@ Answer these questions (not all of the Answers are in each case study!)
 1. What major obstacle (cost, system performance, QPS, etc, etc) was the company trying to overcome by implementing this technology stack?
 1. What can you learn from this article relating to technology and infrastructure?
 
+There is a lot that takes place in order for a technology company to run.  There is a lot of intrastructure that is required to make sure that the company runs in the proper manner.  
+
 #### Activity 2
 
 Read these four articles.  It's a commentary on the Opensource license changes, a response from one of the CEOs, and then a reply to the response.
@@ -822,13 +883,36 @@ Read these four articles.  It's a commentary on the Opensource license changes, 
 Answer these questions with a few short sentences:
 
 * What is Bryan Cantrill's initial main point in the first article?
+
+His maoin point is that the open source software development process is going through what he called a "midlife crisis".  The economic hardships that open source companies is catching up to them.    
+
 * Do you agree with him, why or why not?
+
+I do agree with the idea due to the fact that it can be very difficult for an open soure company to make money.  
+
 * What is Jay Kreps response/contention in the second article?
+
+His response is focusing on the licensing aspect of an open source company and that is how companies like that can make thier money.  
+
 * Do you agree with him, why or why not?
+
+I do agree with him as well because the points he makes are incredibly valid and could really benefit open source companies.  
+
 * What is the main point of Bryan Cantrill's rejoinder in the third article?
+
+His main point was the about the effets that licensing can have on a company especially that is open soure.  
+
 * Do you agree with him, why or why not?
+
+I do agree with him that heavily relying on licensing can have a drastic effect on a company.  
+
 * What is Adam Jacob's opinion on running a company with an opensource product?
+
+You must limit the amount of people within the company. 
+
 * What is the solution in your opinion?
+
+The solution I see is combination of licensing and limiting the company payrole.  
 
 #### Footnotes
 
