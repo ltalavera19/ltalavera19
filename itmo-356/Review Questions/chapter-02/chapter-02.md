@@ -753,7 +753,7 @@ Microsoft at the time was a company that was trying to take advantage of the sma
 
 1. When Bill Gates wrote his 1976 *"Open Letter to Hobbyists"*, was he justified in his complaint?  Why or why not?
 
-
+I do not believe he was justified with his complaints due to him being the casue of most of them and the company that he was trying to make and develop.  
 
 1. According to Eric Raymond in the move, the adoption curve of Linux and the adoption curve the internet do what ~32:20?
 
@@ -761,17 +761,23 @@ They track eachother exactly.
 
 1. Why did Bruce Perens help write the Open Source Definition / Debian Social Contract Standard?
 
+He wanted to futher the research that was already going into the project.  
+
 1. What were the two commercial Linux companies featured in the movie (Note-one does not exist any longer)?
 
 Red Hat Linux and VA Linux.
 
 1. What is Red Hat Linux's stock price today compared to the the price listed in the movie?  What is VA Linux's stock price today compared to the movie? (Hint VA Linux was sold and now belongs to another company, find that company's stock price.)
 
+Their stock price is around $187.71 per share.  
+
 1. According to Eric S. Raymond what was the major application that needed to "flip" for opensource to become a viable enterprise solution?
 
 A big database vendor 
 
 1. What was the first major commercial company to opensource a key product?  What did that product eventually become?
+
+The first example of free and open-source software is believed to be the A-2 system, developed at the UNIVAC division of Remington Rand in 1953, which was released to customers with its source code
 
 1. How does Richard Stallman react at the end of the movie to the success of the Linux kernel to the exclusion of the GNU toolchain? 
 
@@ -860,12 +866,33 @@ You can find them at [https://highscalability.com/blog/category/example](http://
 Answer these questions (not all of the Answers are in each case study!)
 
 1. What market does that company serve? (What do they do?) And have they always served that market?
+
+At Kinsta, they set out to create the best managed hosting platform in the world.
+
 1. What Operating System(s) are used?
+
+They use open source operating systems such as Linux.  
+
 1. What programming languages/frameworks are used?
+
+They do with with JavaScript.
+
 1. What storage and what database technologies are used?
+
+They use Google Cloud Services.
+
 1. What Opensource license is the technology stack licensed under?
+
+
+
 1. What is the current stock price and what was the IPO of the company? (if traded publicly.)
+
+Unable to find one.  
+
 1. What major obstacle (cost, system performance, QPS, etc, etc) was the company trying to overcome by implementing this technology stack?
+
+Kinsta is a WordPress-only host.  
+
 1. What can you learn from this article relating to technology and infrastructure?
 
 There is a lot that takes place in order for a technology company to run.  There is a lot of intrastructure that is required to make sure that the company runs in the proper manner.  
