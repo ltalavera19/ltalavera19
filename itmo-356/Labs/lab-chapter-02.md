@@ -9,13 +9,39 @@ You can find them at [https://highscalability.com/blog/category/example](http://
 Answer these questions (not all of the Answers are in each case study!)
 
 1. What market does that company serve? (What do they do?) And have they always served that market?
-1. What Operating System(s) are used?
-1. What programming languages/frameworks are used?
-1. What storage and what database technologies are used?
-1. What Opensource license is the technology stack licensed under?
-1. What is the current stock price and what was the IPO of the company? (if traded publicly.)
-1. What major obstacle (cost, system performance, QPS, etc, etc) was the company trying to overcome by implementing this technology stack?
-1. What can you learn from this article relating to technology and infrastructure?
+
+At Kinsta, they set out to create the best managed hosting platform in the world.
+
+
+2. What Operating System(s) are used?
+
+They use open source operating systems such as Linux.
+
+
+3. What programming languages/frameworks are used?
+
+They do with with JavaScript.
+
+
+4. What storage and what database technologies are used?
+
+They use Google Cloud Services.
+
+5. What Opensource license is the technology stack licensed under?
+
+6. What is the current stock price and what was the IPO of the company? (if traded publicly.)
+
+Unable to find one.
+
+
+7. What major obstacle (cost, system performance, QPS, etc, etc) was the company trying to overcome by implementing this technology stack?
+
+Kinsta is a WordPress-only host.
+
+8. What can you learn from this article relating to technology and infrastructure?
+
+There is a lot that takes place in order for a technology company to run. There is a lot of intrastructure that is required to make sure that the company runs in the proper manner.
+
 
 ## Activity 2
 
@@ -30,10 +56,35 @@ Read these four articles.  It's a commentary on the Opensource license changes, 
 Answer these questions with a few short sentences:
 
 * What is Bryan Cantrill's initial main point in the first article?
+
+His maoin point is that the open source software development process is going through what he called a "midlife crisis". The economic hardships that open source companies is catching up to them.
+
 * Do you agree with him, why or why not?
+
+I do agree with the idea due to the fact that it can be very difficult for an open soure company to make money.
+
 * What is Jay Kreps response/contention in the second article?
+
+His response is focusing on the licensing aspect of an open source company and that is how companies like that can make thier money.
+
 * Do you agree with him, why or why not?
+
+I do agree with him as well because the points he makes are incredibly valid and could really benefit open source companies.
+
 * What is the main point of Bryan Cantrill's rejoinder in the third article?
+
+His main point was the about the effets that licensing can have on a company especially that is open soure.
+
 * Do you agree with him, why or why not?
+
+I do agree with him that heavily relying on licensing can have a drastic effect on a company.
+
 * What is Adam Jacob's opinion on running a company with an opensource product?
+
+You must limit the amount of people within the company.
+
 * What is the solution in your opinion?
+
+The solution I see is combination of licensing and limiting the company payrole.
+
+
