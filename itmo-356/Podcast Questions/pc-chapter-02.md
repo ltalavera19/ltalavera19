@@ -30,8 +30,8 @@ They struggle with the idea on how does the company continue to make money.
 Redhat, Horton Works are open source companies.
 
 * 19:35 What are the majority of OpenSource companies strategies to make money?
-T
-hey would just become acquired.
+
+They would just become acquired.
 
 * 22:40 What do companies need to figure out about Free and OpenSource?
 
