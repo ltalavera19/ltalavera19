@@ -4,6 +4,9 @@ You will need to do some research and find the download links for the Linux and 
 
 * Debian Based
   * Ubuntu 20.04 Desktop edition
+
+![*Homebrew-Version*](./Ubuntu 20.04 Desktop edition.png)
+
   * Lubuntu 20.04 Desktop edition
   * XUbuntu 20.04 Desktop edition
   * Ubuntu 20.04 Server edition
