@@ -8,9 +8,19 @@ You will need to do some research and find the download links for the Linux and 
 ![Ubuntu image](./images./Ubunto20.04.png)
 
   * Lubuntu 20.04 Desktop edition
+
+done
+
   * XUbuntu 20.04 Desktop edition
+
+done
+
   * Ubuntu 20.04 Server edition
+
+done
+
   * Trisquel Linux
+
   * Solus Linux - MATE
   * PureOS
 
