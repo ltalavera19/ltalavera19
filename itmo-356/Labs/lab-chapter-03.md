@@ -5,24 +5,32 @@ You will need to do some research and find the download links for the Linux and 
 * Debian Based
   * Ubuntu 20.04 Desktop edition
 
-![](Ubuntu.20.04.png)
+![](../images/Lab-3/Ubuntu2004.png)
 
   * Lubuntu 20.04 Desktop edition
 
-done
+![](../images/Lab-3/Lubuntu-20.04.png)
 
   * XUbuntu 20.04 Desktop edition
 
-done
+![](../images/Lab-3/XUbuntu-20.04.png)
 
   * Ubuntu 20.04 Server edition
 
-done
+
 
   * Trisquel Linux
 
+![](../images/Lab-3/Trisquel-Linux.png)
+
   * Solus Linux - MATE
+
+![](../images/Lab-3/Solus-Linux-MATE.png)
+
+
   * PureOS
+
+
 
 * Red Hat Based
   * Fedora 34 - Workstation edition
