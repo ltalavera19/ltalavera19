@@ -5,7 +5,7 @@ You will need to do some research and find the download links for the Linux and 
 * Debian Based
   * Ubuntu 20.04 Desktop edition
 
-![Ubuntu image](./images./Ubunto20.04.png)
+![](Ubuntu.20.04.png)
 
   * Lubuntu 20.04 Desktop edition
 
