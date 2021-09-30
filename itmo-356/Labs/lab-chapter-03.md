@@ -30,27 +30,57 @@ You will need to do some research and find the download links for the Linux and 
 
   * PureOS
 
+![](../images/Lab-3/PuresOS.png)
 
 
 * Red Hat Based
   * Fedora 34 - Workstation edition
+
+![](../images/Lab-3/Fedora-34.png)
+
   * CentOS 8 Stream - Minimal install
+
+![](../images/Lab-3/CentOS.png)
 
 * Illumos Based
   * OmniOS Community Edition
 
+  ![](../images/Lab-3/OmniOS.png)
+
 * BSD based
   * FreeBSD
 
+  ![](../images/Lab-3/freebsd.png)
+
+
 * Linux
   * Alpine Linux - Standard
+
+  ![](../images/Lab-3/AlpineLinux.png)
+
   * MX Linux
+
+  ![](../images/Lab-3/MXLinux.png)
+
+
   * PCLinuxOS - Xfce mini
+
+  ![](../images/Lab-3/PCLinux.png)
+
   * Linux Mint
+
+    ![](../images/Lab-3/LinuxMint.png)
+
 
 * Network Based Install
   * openSUSE Leap
+
+    ![](../images/Lab-3/opensuse.png)
+
   * Debian 11.x
+
+      ![](../images/Lab-3/Debian.png)
+
 
 ![*Sample Deliverable*](images/Chapter-03/lab-example/virtualbox-ubuntu.png "Sample Deliverable")
 
