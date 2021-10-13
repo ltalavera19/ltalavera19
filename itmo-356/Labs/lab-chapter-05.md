@@ -8,29 +8,74 @@ The following commands are intentionally out of order as you will be issuing com
 
 1) Opening a terminal, `cd` to the **Documents** directory. Issue the `pwd` command to find your present working directory (or current location)
 1) Still in the **Documents** directory, use the `mkdir` command to create a directory named: **itmo356**
-1) `cd` into the itmo356 directory.  Issue the command to show your present working directory. Create the below hieracrchy of sub-directories.  Once created take a screen shot of the output of the `ls` command in the distros directory
+1) `cd` into the itmo356 directory.  Issue the command to show your present working directory. Create the below hierarchy of sub-directories.  Once created take a screen shot of the output of the `ls` command in the distros directory
 1) distros > BSD
 1) distros > Debian (yes this spelling should be capital)
 1) distros > redhat
 1) Inside of each of the three directories just created we will need to create some text files.  Take a screenshot of the `ls` listing the contents of each directory showing how to create the files and listing them in the directory.
 1) In the directory BSD use the command to create a file: Create three files names: oracle-linux.txt openbsd.txt netbsd.txt
+
+![](../images/Lab-5/BSD-txt-files.png)
+
 1) In the directory Debian use the command to create a file: Create three three names: ubuntu.txt freebsd.txt devuan.txt
+
+![](../images/Lab-5/Debian-txt-files.png)
+
 1) In the directory redhat use the command to create a file: Create three files names: fedora.txt rhel.txt debian.txt
+
+![](../images/Lab-5/redhat-txt-files.png)
+
 1) At the same level as distro distros level -> omnios.txt
+
+![](../images/Lab-5/distros-level-txt.png)
+
 1) In the text files created you will notice that a few of them are out of place, such as a debian.txt is in the redhat folder.  Issue the command to move the text files to the correct locations and show a directory listing before and after the move command.  (*Hint*: ls mv ls)
+
+BSD AFTER 
+
+![](../images/Lab-5/BSD-Directory-AFTER.png)
+
+DEBIAN AFTER
+
+![](../images/Lab-5/Debian-Directory-After.png)
+
+REDHAT AFTER
+
+![](../images/Lab-5/rehat-Drectory-After.png)
+
 1) Use the `mv` command to rename the Debian directory to have a lowercase "D"
+
+![](../images/Lab-5/rename-debian.png)
+
 1) Use the `rm` command to delete oracle-linux.txt file
+
+![](../images/Lab-5/deleting-oracle-linux-file.png)
+
 1) Use the `mkdir` command to create a directory at the distros level named: **illumos** and move the omnios.txt file into **illumos**
+
+![](../images/Lab-5/making-illimos-directory.png)
+
+![](../images/Lab-5/moving-omnios-file.png)
+
 1) `cd` to the distros BSD directory - what would be the command using a relative path to change your pwd to redhat?
+
+![](../images/Lab-5/moving-bsd-to-redhat.png)
+
 1) From the redhat directory - what would be the command using the relative path to change your pwd to your home directory?
+
+![](../images/Lab-5/going-back-to-home-directory.png)
+
 1) From your home directory - what would be the command using the relative path to change your pwd to the debian directory created earlier?
-1) From the debian directory - what would be the command using an absolute path to change your pwd to /etc/ssh/ssh_config?
+
+
+
+1) From the debian directory - what would be the command using an absolute path to change your pwd to /etc/ssh/ssh_config.d?
 1) Use the `man` command to figure out how to display the format of the `date` command as month, day, year combined to look like: 10152021
-1) Using the file: `/var/log/syslog`:  Type the command to display the last 10 lines of this file
-1) Using the file: `/var/log/syslog`:  Type the command to display the first 10 lines of this file
-1) Using the file: `/var/log/syslog`:  Using the `man` command on the previous question, find how to display the last 25 lines of this file
-1) Using the file: `/var/log/syslog`:  Type the command to display the enitre contents of this file backwards (last line to first)
-1) Using the file: `/var/log/syslog`:  Use one of the commands to allow for paging through one of these commands (hit 'q' to quit the paging command)
+1) Using the file on Ubuntu 20.04: `/var/log/syslog`:  Type the command to display the last 10 lines of this file
+1) Using the file on Ubuntu 20.04: `/var/log/syslog`:  Type the command to display the first 10 lines of this file
+1) Using the file on Ubuntu 20.04: `/var/log/syslog`:  Using the `man` command on the previous question, find how to display the last 25 lines of this file
+1) Using the file on Ubuntu 20.04: `/var/log/syslog`:  Type the command to display the entire contents of this file backwards (last line to first)
+1) Using the file on Ubuntu 20.04: `/var/log/syslog`:  Use one of the commands to allow for paging through one of these commands (hit 'q' to quit the paging command)
 1) Clone the textbook source code into your virtual machine.  `cd` into Documents and issue the command: `git clone https://github.com/jhajek/Linux-text-book-part-1.git`.  (*Hint:* You may have to use your distro package manager to install the `git` tool)
 1) Issue the `cd` command to change directory into Linux-text-book-part-1.  Issue the command to display what type of file `./title/metadata.yaml` is.  
 1) Issue that same command to display what type of file `Appendix-A` is.
