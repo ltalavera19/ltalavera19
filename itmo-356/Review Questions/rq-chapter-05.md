@@ -173,6 +173,7 @@ File
     c. usr/sbin
 
     d. usr/bin
+123456789
 
 19) What is the absolute path of a user's home directory, assuming the user is named controller?
 

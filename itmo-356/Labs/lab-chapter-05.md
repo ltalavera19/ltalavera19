@@ -41,7 +41,7 @@ DEBIAN AFTER
 
 REDHAT AFTER
 
-![](../images/Lab-5/rehat-Drectory-After.png)
+![](../images/Lab-5/rehat-Directory-After.png)
 
 1) Use the `mv` command to rename the Debian directory to have a lowercase "D"
 
@@ -70,24 +70,107 @@ REDHAT AFTER
 
 
 1) From the debian directory - what would be the command using an absolute path to change your pwd to /etc/ssh/ssh_config.d?
+
+
+
 1) Use the `man` command to figure out how to display the format of the `date` command as month, day, year combined to look like: 10152021
 1) Using the file on Ubuntu 20.04: `/var/log/syslog`:  Type the command to display the last 10 lines of this file
+
+
+![](../images/Lab-5/first10lines.png)
+
+
+
 1) Using the file on Ubuntu 20.04: `/var/log/syslog`:  Type the command to display the first 10 lines of this file
+
+
+![](../images/Lab-5/last10lines.png)
+
+
+
 1) Using the file on Ubuntu 20.04: `/var/log/syslog`:  Using the `man` command on the previous question, find how to display the last 25 lines of this file
+
+![](../images/Lab-5/last25lines.png)
+
+
+
 1) Using the file on Ubuntu 20.04: `/var/log/syslog`:  Type the command to display the entire contents of this file backwards (last line to first)
+
+![](../images/Lab-5/reverselines.png)
+
+
 1) Using the file on Ubuntu 20.04: `/var/log/syslog`:  Use one of the commands to allow for paging through one of these commands (hit 'q' to quit the paging command)
+
+
+
 1) Clone the textbook source code into your virtual machine.  `cd` into Documents and issue the command: `git clone https://github.com/jhajek/Linux-text-book-part-1.git`.  (*Hint:* You may have to use your distro package manager to install the `git` tool)
+
+![](../images/Lab-5/gitdownload.png)
+
+
 1) Issue the `cd` command to change directory into Linux-text-book-part-1.  Issue the command to display what type of file `./title/metadata.yaml` is.  
+
+![](../images/Lab-5/yaml.png)
+
+
 1) Issue that same command to display what type of file `Appendix-A` is.
+
+![](../images/Lab-5/AppendixA.png)
+
 1) Using in the book source code, under files > chapter-05 > sample-script: copy the file sample-command to your home directory. Use the command to the give the script execute permission `+x`.  Issue the `ls -l sample-script/sample-command` command to show the permissions of just the `sample-command` file 
+
+![](../images/Lab-5/show-$permissions.png)
+
+
 1) Move the file `sample-command` to the location `/usr/local/bin` (**Note:** you will need to add the `sudo` command in front to give yourself root privileges to move a file to this location)
 1) Then from the command line (any location) execute the command: `sample-command`, and if successful you will receive a message of success
-1) Execute the `ssh-keygen` command on the command line (from any location) and accept all the default values (just hit enter for now, we will cover RSA in depth later in the text).  This command generates two files that are part of an RSA keypair, located in `~/.ssh`
+1) Execute the `ssh-keygen` command on the command line (from any location) and accept all the default values (just hit enter for now, we will cover RSA in depth later in the text).
+
+![](../images/Lab-5/keygan.png)
+
+
+  This command generates two files that are part of an RSA keypair, located in `~/.ssh`
 1) `cd` into that directory and type the command to show the long listing of the directory
+
+![](../images/Lab-5/ssh.png)
+
+
+
 1) From the textbook sample code > Files > Chapter-05 > sample-scripts > copy the file `date-time-script.sh` to your home directory.  `cd` to your home directory and execute the shell script you just copied (which will print out the current datetime) with the command: `./date-time-script.sh`.  You get an error message stating **permission is denied**: Explain why?
+
+you have to use SUDO to give yourself persmission
+
+
 1) Type the command to enable your user to be able to execute this command and capture the results
+
+![](../images/Lab-5/givepermission-shh.png)
+
+
 1) From the textbook sample code > Files > Chapter-05 > sample-textfiles > distro-list.txt : issue the command to display the content of the distro-list.txt to the screen
+
+
+![](../images/Lab-5/viewing-file.png)
+
+
 1) Issue the command using a relative path to copy the file distro-list.txt to distros directory you made under the itmo356 folder
+
+![](../images/Lab-5/distros-folder.png)
+
+
+
 1) Issue the command to show the listing of the distros directory content and showing that the file was copied
+
+
+![](../images/Lab-5/distros-folder.png)
+
+
 1) Use the `wget` command to retrieve a copy of the Packer.io binary for Linux.  Use this URL as the argument for `wget` [https://releases.hashicorp.com/packer/1.7.6/packer_1.7.6_linux_amd64.zip](https://releases.hashicorp.com/packer/1.7.6/packer_1.7.6_linux_amd64.zip "Packer Download URL")
+
+![](../images/Lab-5/packerio.png)
+
+
+
 1) Use the `unzip` command to unzip the binary and extract the packer executable.  Issue the move command, `mv` to move the executable to this location: `/usr/local/bin`.  **Hint:** you will need to use `sudo` to get the permission needed for this operation and you may need to install the `unzip` application using your package manager. To show this was successful take a screenshot of the output of the command `packer -v`.
+
+
+![](../images/Lab-5/packer-1.png)
