@@ -3,6 +3,9 @@
 The objectives of this lab will be to use the shell and understand meta-characters, pipes, search, and tools. The outcome will be that you will be able to successfully use meta-characters for file creation, location, modification, and manipulation.  You will successfully master the concept of pipes and redirection as well.  Resist the temptation to use the GUI file manager and a web browser.  All actions will be done through the shell. You can use either an Ubuntu or a Fedora based OS.  **Deliverable:** Take a screenshot demonstrating the required output of each command.
 
 1. Issue the command to clone a copy of the textbook code (if you have already done this in Lab 5 no need to repeat the step). Issue the command to `cd` into the `Linux-Text-Book-Part-I` directory. Type the command that will list every file in this directory that has any number of characters and a ```.sh``` two character file extension of any name
+
+![](../images/Lab-6/step1.png)
+
 1. Type the command inside the textbook directory will do a *long listing* of Chapters-02, 04, 06, and 08 only
 1. Type the command that will copy the file `Chapter-02/chapter-02.md` into the your home directory, then list the content of your home directory. Use the meta-character needed to execute the proceeding commands only if the previous command is true and place all these commands into one single line
 1. In your home directory, using the meta-character, create these two series of files: ubuntu10.txt - ubuntu15.txt and redhat10.txt - redhat15.txt.  Create each series using a single command
