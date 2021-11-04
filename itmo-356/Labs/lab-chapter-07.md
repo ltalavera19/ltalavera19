@@ -23,6 +23,34 @@ At the end you will have mastered the basics of vi and now be proficient in the 
     i) This is a 6 part tutorial.  You need to follow all the steps of the 6 part tutorial making your changes directly in the file.
     i) __Be careful__ to save the file to an external location – otherwise IT WILL BE OVERWRITTEN each time you launch the vimtutor command. You can do this by typing ```:w  ~/Documents/vimtutor.txt``` - this way you can edit the file on your local system instead of launching the vimtutor application again.  Note you need to use ```vim``` for this assignment.
     i) Take a screenshot as you complete each sub-section (i.e. 2.1 2.2 3.1 4.1 )
+
+![](../images/Lab-7/1.3.png)
+![](../images/Lab-7/1.4.png)
+![](../images/Lab-7/1.5.png)
+![](../images/Lab-7/2.1.png)
+![](../images/Lab-7/2.2.png)
+![](../images/Lab-7/2.5.png)
+![](../images/Lab-7/2.6.png)
+![](../images/Lab-7/2.7.png)
+![](../images/Lab-7/3.1.png) 
+![](../images/Lab-7/3.2.png)
+![](../images/Lab-7/3.3.png)
+![](../images/Lab-7/3.4.png)
+![](../images/Lab-7/4.1.png)
+![](../images/Lab-7/4.2.png)
+![](../images/Lab-7/4.3.png)
+![](../images/Lab-7/4.4.png)
+![](../images/Lab-7/5.1.png)
+![](../images/Lab-7/5.2.png)
+![](../images/Lab-7/5.3.png)
+![](../images/Lab-7/5.4.png)
+![](../images/Lab-7/6.1.png)
+![](../images/Lab-7/6.2.png)
+![](../images/Lab-7/6.3.png)
+![](../images/Lab-7/6.4.png)
+![](../images/Lab-7/6.5.png)
+
+
 1) From the textbook source code folder: ```files/Chapter-07/lab```, copy the file ```install-java-8-openjdk.sh``` to your home directory
     i)  Using vim/ex commands, find **all** occurrences of ```;``` and replace them with ```&&```
     i)  Using vim/ex commands, replace **all** occurrences of the numbers ```2.6.5``` with ```2.8.5```
@@ -30,10 +58,18 @@ At the end you will have mastered the basics of vi and now be proficient in the 
     i)  Using vim/ex commands to append the package names ```python``` and ```python-dev``` to line 9
     i)  Save file and quit the vim editor
     i)  Take a screenshot of the command used to display the entire content of the file
+
+![](../images/Lab-7/step2.png)
+
+
 1) From the textbook source code folder: ```files/Chapter-07/lab```, copy the file ```install-software.sh```to your home directory
     i) Using vim/ex commands, find all occurrences of ```python``` and replace them with ```python3```
     i) Save file and quit the vim editor
     i)  To test your work, give the shell script execute permission and execute it
+
+![](../images/Lab-7/step3.png)
+
+
 1) In your home directory, using vim, create a shell script named ```first-shell.sh``` in your home directory that contains the following:
     i) Add the proper *shebang* on the first line.
     i) Add two lines of space
@@ -45,10 +81,19 @@ At the end you will have mastered the basics of vi and now be proficient in the 
     i) Execute the command to give first-shell.sh execute permission
     i) Take a screenshot of the output executing first-shell.sh
     i) Take a screenshot of the command used to print the content of the file: first-shell.sh
+
+![](../images/Lab-7/step4.png)
+
+
 1) From the textbook source code folder: ```files/Chapter-07/lab```, copy the file ```install-software.sh``` to your home directory
     i) Open the file install-software.sh in GNU Nano
     i) On line 5 replace my name with yours - take a before and after screenshot
     i) Save the file and quit Nano, then execute the command to show only the **first** 10 lines of the file install-software.sh
+
+ ![](../images/Lab-7/step5before.png)
+![](../images/Lab-7/step5after.png)
+
+
 1) Using wither vim or Nano:
     i) Create a shell script named **install-textbook-dependencies.sh** in your home directory.
     i) Add the proper *shebang* on the first line, then two lines of space
@@ -57,6 +102,9 @@ At the end you will have mastered the basics of vi and now be proficient in the 
     i) Give the script execute permission and execute it
     i) To test the results, `cd` into the Linux-Text-Book-Part-1 directory (clone it if you have not) and execute the the script: `./build-linux-and-macos.sh`  (the script already have execute permission)
     i) To test if the textbook built correctly - cd into the directory: **output/pdf**.  Issue the `ls` command and you will see two PDF files.
+
+
+![](../images/Lab-7/step6.png)
 
 ```bash
 
