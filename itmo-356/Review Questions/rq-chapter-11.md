@@ -104,7 +104,7 @@
 
     a) Brian Kernighan
 
-    b) Theodore Ts'o
+    b) Theodore Ts'o (CORRECT)
 
     c) Andrew Tanenbaum
 
@@ -114,7 +114,7 @@
 
     a) XFS
 
-    b) Btrfs
+    b) Btrfs (CORRECT)
 
     c) ZFS
 
@@ -124,7 +124,7 @@
 
     a) ZFS
 
-    b) XFS
+    b) XFS (CORRECT)
 
     c) Btrfs
 
@@ -132,7 +132,7 @@
 
 14) Which is the correct command needed to install on Ubuntu to be able to create XFS filesystems?
 
-    a) `sudo apt-get install xfsprogs`
+    a) `sudo apt-get install xfsprogs` (CORRECT)
 
     b) `sudo apt-get install zprogs`
 
@@ -146,7 +146,7 @@
 
     b) SunFS
 
-    c) ZFS
+    c) ZFS (CORRECT)
 
     d) Btrfs
 
@@ -154,7 +154,7 @@
 
     a) `sudo mkfs.ext4 /dev/sdb`
 
-    b) `sudo mkfs.ext4 /dev/sdb1`
+    b) `sudo mkfs.ext4 /dev/sdb1` (CORRECT)
 
     c) `sudo mkfs /dev/sdb1`
 
@@ -166,7 +166,7 @@
 
     b) `sudo mnt -t ext4 /dev/sdb1 /mnt/data-drive-2`
 
-    c) `sudo mount -t ext4 /dev/sdb1 /mnt/data-drive-2`
+    c) `sudo mount -t ext4 /dev/sdb1 /mnt/data-drive-2` (CORRECT)
 
     d) `sudo mount /dev/sdb1 /mnt/data-drive-2`
 
@@ -176,13 +176,13 @@
 
     b) /etc/default/grub.conf
 
-    c) /etc/fstab
+    c) /etc/fstab (CORRECT)
 
     d) /etc/tab
 
 19) What is the command used to create a LVM physical volume?
 
-    a) `pvcreate`
+    a) `pvcreate` (CORRECT)
 
     b) `pvck`
 
@@ -192,7 +192,7 @@
 
 20) What is the command used to create a LVM volume group?
 
-    a) `vgcreate`
+    a) `vgcreate` (CORRECT)
 
     b) `vgck`
 
