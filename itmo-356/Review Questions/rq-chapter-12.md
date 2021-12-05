@@ -32,25 +32,24 @@
 
 4) What is the purpose of a netmask?
 
-a shorthand for referring to ranges of consecutive IP addresses in the Internet Protocol. They used for defining networking rules in routers and firewalls. 
+A Netmask is a 32-bit mask used to divide an IP address into subnets and specify the network's available hosts.Netmask is used to define the class of network and range of IP address.It also defines how many IP addresses are available to use.
 
 5) What is the purpose of DNS?
 
-The purpose of DNS is to translate a domain name into the appropriate IP address. 
-
+DNS is used as a directory to translate domain names to IP address.As it is easy to remember domain names than IP address of a website.DNS contains IP address of websites mapped to domain names.It performs dns lookup of our domain name and provides ip address to the browser.
 6) What is the name of the systemd firewall?
 
    a. systemd-firewalld
 
    b. systemd-firewall
 
-   c. firewalld-cmd
+   c. firewalld-cmd (CORRECT)
 
    d. ufw
 
 7) What would be the command to list all of the firewalld public zone ports in use?
 
-   a. `sudo systemctl status firewalld`
+   a. `sudo systemctl status firewalld` (CORRECRT)
 
    b. `sudo firewalld-cmd --zone=public --list-all`
 
@@ -73,13 +72,13 @@ The purpose of DNS is to translate a domain name into the appropriate IP address
    a. 80
    b. 3000
    c. 8080
-   d. 443
+   d. 443 (CORRECT)
 
 10) Using Network Manager, what tool is used to release a DHCP address from the command line?
 
     a. `rhclient`
 
-    b. `ipconfig /release`
+    b. `ipconfig /release` (CORRECT)
 
     c. `dhclient -r`
 
@@ -93,7 +92,7 @@ The purpose of DNS is to translate a domain name into the appropriate IP address
 
     c.  `wireshark`
 
-    d.  `netstat`
+    d.  `netstat` (CORRECT)
 
 12) Where are your network card settings located on Ubuntu while using Network Manager?
 
@@ -129,7 +128,7 @@ The purpose of DNS is to translate a domain name into the appropriate IP address
 
 17) What command would you type to get to the MySQL command line prompt as the root user?
 
-
+ mysql -u root -p
 
 18) What is the file location that the system uses as a *local DNS* for resolving IP?
 
@@ -145,7 +144,7 @@ The purpose of DNS is to translate a domain name into the appropriate IP address
 
     a. `--peppermint`
 
-    b. `--permenant`
+    b. `--permenant` (CORRECT)
 
     c. `--allow`
 
@@ -153,7 +152,7 @@ The purpose of DNS is to translate a domain name into the appropriate IP address
 
 20) Before systemd, NIC interface naming schemes depended on a driver based enumeration process. They switched to a predictable network interface naming process that depends on what for the interface names?
 
-    a. driver loading order
+    a. driver loading order (CORRECT)
 
     b. interface names depend on physical location of hardware (bus enumeration) (CORRECT)
 
